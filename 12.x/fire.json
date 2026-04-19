@@ -1,1 +1,28 @@
-.
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "Redmi 12 4G",
+        "filename": "crDroidAndroid-16.0-20260418-fire-v12.9.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20260418-fire-v12.9/crDroidAndroid-16.0-20260418-fire-v12.9.zip",
+        "timestamp": 1776544135,
+        "md5": "cd34dd53b0aadc6e6529fe664fd2022c",
+        "sha256": "bcf5fb6cf94a9534b19ba2278fe6a01b8d0bef79d02a123f0369754d4b8093d5",
+        "size": 1266279194,
+        "version": "12.9",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
