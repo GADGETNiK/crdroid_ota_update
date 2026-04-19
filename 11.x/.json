@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "",
+        "device": "",
+        "filename": "crDroidAndroid-15.0-*--*.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_update/releases/download/crDroidAndroid-15.0-*--*/crDroidAndroid-15.0-*--*.zip",
+        "timestamp": ,
+        "md5": "",
+        "sha256": "",
+        "size": ,
+        "version": "*.zip",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}

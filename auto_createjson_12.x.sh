@@ -13,6 +13,7 @@ date=$(echo $zip | cut -f3 -d '-')                                              
 	"fog"         ) devicename="Redmi 10C" && oem="Xiaomi"       ;;  #
     "miatoll"         ) devicename="POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max" && oem="Xiaomi"       ;;  #
 	"onclite"         ) devicename="Redmi 7/Y3" && oem="Xiaomi"       ;;  #
+       "fire"         ) devicename="Redmi 12 4G" && oem="Xiaomi"       ;;  #
 	esac
 
 buildtype="Monthly"                          # choose from Testing/Alpha/Beta/Weekly/Monthly
