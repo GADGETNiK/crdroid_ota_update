@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Samsung",
+        "device": "Galaxy S10",
+        "filename": "crDroidAndroid-11.0-20260502-beyond1lte-v7.61.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_update/releases/download/crDroidAndroid-11.0-20260502-beyond1lte-v7.61/crDroidAndroid-11.0-20260502-beyond1lte-v7.61.zip",
+        "timestamp": 1777744197,
+        "md5": "efef1b2bc4246173ef01890228ba064b",
+        "size": 892026184,
+        "version": "7.61",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/WolfAURman_Discussion",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/16-Jul-2023/NikGapps-core-arm64-11-20230716-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK"
+    }
+  ]
+}
